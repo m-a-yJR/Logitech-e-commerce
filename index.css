@@ -55,7 +55,6 @@ header nav a{
     animation-name: sigma;
     animation-play-state: paused;
     animation-fill-mode: forwards;
-    
 }
 header nav a:hover{
     animation-duration: 1.5s;
@@ -129,7 +128,7 @@ header nav button{
 }
 .pro{
     background-image: linear-gradient(black 15%, rgb(0, 145, 212)95%, black);
-    margin: -8px;
+    margin: -27px;
 }
 .pro h2{
     padding-left: 42%;
@@ -221,7 +220,7 @@ header nav button{
 }
 .new{
     background-image: linear-gradient(black, rgb(0, 145, 212));
-    margin: -8px;
+    margin: -28px;
 }
 .new h2{
     padding-left: 43%;
